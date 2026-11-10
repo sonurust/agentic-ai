@@ -1,0 +1,164 @@
+Source: Radha Diagnostics\
+Total pages: 3\
+Format: Original text preserved, including headings, values, units, reference ranges and notes.
+
+## Page 1 of 3
+
+S47 - RADHA DIAGNOSTICS
+
+G.T. ROAD, JHUNSI, AWAS VIKAS COLONY,\
+YOJNA-2, NR POLICE CHOWKI, ALLAHABAD, UP
+
+Patient Details
+
+| Field         | Details             |
+| ------------- | ------------------- |
+| Name          | Mr. NEERAJ OJHA     |
+| Lab No.       | 242862201           |
+| Age           | 27 Years            |
+| Gender        | Male                |
+| A/c Status    | P                   |
+| Ref By        | Dr. V. K. PANDEY    |
+| Collected     | 1/8/2017 8:21:00 AM |
+| Received      | 1/8/2017 8:37:03 AM |
+| Reported      | 1/8/2017 6:52:30 PM |
+| Report Status | Final               |
+
+### COMPLETE BLOOD COUNT (CBC)
+
+| Test Name                         | Results | Units    | Biological Reference Interval |
+| --------------------------------- | ------- | -------- | ----------------------------- |
+| Hemoglobin                        | 12.00   | g/dL     | 13.00 - 17.00                 |
+| Packed Cell Volume (PCV)          | 37.70   | %        | 40.00 - 50.00                 |
+| RBC Count                         | 5.79    | mill/mm3 | 4.50 - 5.50                   |
+| MCV                               | 65.00   | fL       | 80.00 - 100.00                |
+| MCH                               | 20.70   | pg       | 27.00 - 32.00                 |
+| MCHC                              | 31.90   | g/dL     | 32.00 - 35.00                 |
+| Red Cell Distribution Width (RDW) | 15.90   | %        | 11.50 - 14.50                 |
+| Total Leukocyte Count (TLC)       | 4.20    | thou/mm3 | 4.00 - 10.00                  |
+
+Differential Leucocyte Count (DLC)
+
+| Test Name             | Results | Units | Biological Reference Interval |
+| --------------------- | ------- | ----- | ----------------------------- |
+| Segmented Neutrophils | 39.60   | %     | 40.00 - 80.00                 |
+| Lymphocytes           | 50.30   | %     | 20.00 - 40.00                 |
+| Monocytes             | 8.10    | %     | 2.00 - 10.00                  |
+| Eosinophils           | 1.40    | %     | 1.00 - 6.00                   |
+| Basophils             | 0.60    | %     | Less than 2.00                |
+
+Absolute Leucocyte Count
+
+| Test Name      | Results | Units    | Biological Reference Interval |
+| -------------- | ------- | -------- | ----------------------------- |
+| Neutrophils    | 1.66    | thou/mm3 | 2.00 - 7.00                   |
+| Lymphocytes    | 2.11    | thou/mm3 | 1.00 - 3.00                   |
+| Monocytes      | 0.34    | thou/mm3 | 0.20 - 1.00                   |
+| Eosinophils    | 0.06    | thou/mm3 | 0.02 - 0.50                   |
+| Basophils      | 0.03    | thou/mm3 | 0.01 - 0.10                   |
+| Platelet Count | 245.0   | thou/mm3 | 150.00 - 450.00               |
+
+Advised: Hb HPLC to rule out Thalassemia Minor.
+
+Note:
+
+1. As per the recommendation of International Council for Standardization in Hematology, the differential leucocyte counts are additionally being reported as absolute numbers of each cell in per unit volume of blood.
+2. Test conducted on EDTA whole blood.
+
+## Page 2 of 3
+
+S47 - RADHA DIAGNOSTICS
+
+G.T. ROAD, JHUNSI, AWAS VIKAS COLONY,\
+YOJNA-2, NR POLICE CHOWKI, ALLAHABAD, UP
+
+Patient Details
+
+| Field         | Details             |
+| ------------- | ------------------- |
+| Name          | Mr. NEERAJ OJHA     |
+| Lab No.       | 242862201           |
+| Age           | 27 Years            |
+| Gender        | Male                |
+| A/c Status    | P                   |
+| Ref By        | Dr. V. K. PANDEY    |
+| Collected     | 1/8/2017 8:21:00 AM |
+| Received      | 1/8/2017 8:37:03 AM |
+| Reported      | 1/8/2017 6:52:30 PM |
+| Report Status | Final               |
+
+### MALARIA PARASITE / BLOOD PARASITE IDENTIFICATION (Microscopy)
+
+Result: No MP seen in smears examined.
+
+Note: A Single negative smear does not rule out malaria.
+
+## Page 3 of 3
+
+S47 - RADHA DIAGNOSTICS
+
+G.T. ROAD, JHUNSI, AWAS VIKAS COLONY,\
+YOJNA-2, NR POLICE CHOWKI, ALLAHABAD, UP
+
+Patient Details
+
+| Field         | Details             |
+| ------------- | ------------------- |
+| Name          | Mr. NEERAJ OJHA     |
+| Lab No.       | 242862201           |
+| Age           | 27 Years            |
+| Gender        | Male                |
+| A/c Status    | P                   |
+| Ref By        | Dr. V. K. PANDEY    |
+| Collected     | 1/8/2017 8:21:00 AM |
+| Received      | 1/8/2017 8:37:03 AM |
+| Reported      | 1/8/2017 6:52:30 PM |
+| Report Status | Final               |
+
+### ALT (SGPT), SERUM (IFCC)
+
+| Test Name         | Results | Units | Biological Reference Interval |
+| ----------------- | ------- | ----- | ----------------------------- |
+| ALT (SGPT), Serum | 127     | U/L   | Less than 50                  |
+
+### WIDAL TEST, SERUM (Slide Agglutination)
+
+| Test Name                      | Results      |
+| ------------------------------ | ------------ |
+| Salmonella typhi O (TO)        | Non Reactive |
+| Salmonella typhi H (TH)        | Non Reactive |
+| Salmonella paratyphi A, H (AH) | Non Reactive |
+| Salmonella paratyphi B, H (BH) | Non Reactive |
+
+Notes:
+
+1. Titres 1:80 and above of “O” antigen and 1:160 and above of “H” antigen are significant.
+2. Rising titres are significant.
+3. The recommended Widal test is by Tube Agglutination Method.
+
+Comments:
+
+This test measures somatic O and flagellar H antibodies against Typhoid and Paratyphoid bacilli.
+
+The agglutinins usually appear at the end of the first week of infection and increase steadily till third / fourth week after which the decline starts.
+
+A positive Widal test may occur because of typhoid vaccination or previous typhoid infection and in certain autoimmune diseases.
+
+Non-specific febrile disease may cause this titre to increase (anamnestic reaction).
+
+The test may be falsely negative in cases of Enteric fever treated with antibiotics in the early stages.
+
+The recommended test specially in the first week after infection is Blood Culture.
+
+### BILIRUBIN, TOTAL, SERUM (DPD)
+
+| Test Name               | Results | Units | Biological Reference Interval |
+| ----------------------- | ------- | ----- | ----------------------------- |
+| Bilirubin, Total, Serum | 1.90    | mg/dL | 0.30 - 1.20                   |
+
+Chief of Lab:
+
+Dr. Rakhee Tiwari\
+MBBS, MD (PATH)
+
+End of Report
